@@ -1,0 +1,7 @@
+Saint-petersburg;Moscow;15;15;
+Saint-petersburg;Novosibirsk;20;100;
+Novosibirsk;Saint-petersburg;120;100;
+Novosibirsk;Tomsk;30;10;
+Tomsk;Moscow;5;9;
+Krasnojarsk;Novosibirsk;8;7;
+Habarovsk;Novosibirsk;30;25;

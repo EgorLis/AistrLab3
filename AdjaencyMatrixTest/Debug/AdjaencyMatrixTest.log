@@ -1,0 +1,47 @@
+﻿  AdjaencyMatrixTest.cpp
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.h(35,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.h(48,15): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.h(48,57): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(39,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(63,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(130,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(134,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(152,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(156,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(197,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(202,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(204,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(210,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(221,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(225,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(245,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(249,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(275,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(277,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(284,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(286,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(295,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(298,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(323,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(327,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(345,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(349,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(374,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(375,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(376,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\List.cpp(88,40): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\List.cpp(87): message : во время компиляции функции-члена класс шаблон "T List<T>::at(size_t)"
+          with
+          [
+              T=char
+          ]
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.cpp(32): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::at(size_t)"
+          with
+          [
+              T=char
+          ]
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\AdjacencyMatrix.h(16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<char>"
+C:\Users\User\source\repos\AISDLAB3\AISDLAB3\List.cpp(97,23): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\User\source\repos\AISDLAB3\Debug\AdjaencyMatrixTest.lib и объект C:\Users\User\source\repos\AISDLAB3\Debug\AdjaencyMatrixTest.exp
+  AdjaencyMatrixTest.vcxproj -> C:\Users\User\source\repos\AISDLAB3\Debug\AdjaencyMatrixTest.dll
